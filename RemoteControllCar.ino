@@ -5,9 +5,6 @@
 #define ENA 9
 #define ENB 13
 
-
-#define HORN 4
-
 int x;
 
 void setup() {
