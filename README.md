@@ -2,9 +2,6 @@
 
 An Arduino-based Bluetooth-controlled remote control car.
 
-# Circuit Diagram
-<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/da1eb769-8209-4256-af17-4cb010ca5638" />
-
 # Connections
 L298N Motor driver
 - ENA = 9
@@ -38,5 +35,3 @@ HC 06
 3. Turn the batteries to use it without pc/laptop.
 4. Control the car using a Bluetooth app.
 
-## MODEL
-<img width="1600" height="1200" alt="WhatsApp Image 2026-07-28 at 9 53 46 PM" src="https://github.com/user-attachments/assets/5e2a2d23-90d2-49ce-83df-7bb336d8d25c" />
